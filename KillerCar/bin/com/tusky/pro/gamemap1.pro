@@ -1,0 +1,14 @@
+elements=player.pro,enemy.pro
+bg=img/beijing.png
+playerA=img/player/player001.png
+playerB=img/player/player002.png
+enemyA=img/enemy/enemy001.png
+enemyB=img/enemy/enemy002.png
+enemyC=img/enemy/enemy003.png
+enemyD=img/enemy/enemy004.png
+enemyE=img/enemy/enemy005.png
+enemyF=img/enemy/enemy006.png
+enemyG=img/enemy/enemy007.png
+fireA=img/fire/6.png
+fireB=img/fire/13.png
+fireC=img/fire/12.png
